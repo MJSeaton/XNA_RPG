@@ -1,7 +1,7 @@
 XNA_RPG
 =======
 
-The relevant code cleaned by patching togetherseveral resources on fractal terrain generation and isometric graphics using c# and microsoft's now depricated XNA framework
+The relevant code cleaned by patching together several resources on fractal terrain generation and isometric graphics using c# and microsoft's now depricated XNA framework
 
 
 
